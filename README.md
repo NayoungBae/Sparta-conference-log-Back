@@ -8,13 +8,15 @@
 
 ## 팀원소개
 ### FRONT END
-- 안송현(https://github.com/thdgus90)
+https://github.com/sungminleeme/Sparta-conference-log
 - 이성민(https://github.com/sungminleeme)
+- 안송현(https://github.com/thdgus90)
 - 신유빈(https://github.com/sinyubin)
 ### BACK END
+https://github.com/salmon2/Sparta-conference-log-Back
+- 박기남(https://github.com/salmon2)
 - 강준규(https://github.com/Smallzoo-dev)
 - 배나영(https://github.com/NayoungBae)
-- 박기남(https://github.com/salmon2)
 
 <br><br>
 
@@ -22,7 +24,9 @@
 
 - 2021/10/03 ~ 2021/10/04
 - 소규모 팀프로젝트
+
 <br><br>
+
 ## 2. 사용 기술
 
 - `Backend`
