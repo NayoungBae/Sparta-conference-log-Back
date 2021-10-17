@@ -3,7 +3,21 @@
 ## 달력으로 정리하는 회의록 만들기
 
 달력으로 정리할 수 있는 회의 프로젝트의 백엔드 서버를 spring 과 jpa, security를 통하여 구성하였습니다.
+
+<br>
+
+## 팀원소개
+### FRONT END
+- 안송현(https://github.com/thdgus90)
+- 이성민(https://github.com/sungminleeme)
+- 신유빈(https://github.com/sinyubin)
+### BACK END
+- 강준규(https://github.com/Smallzoo-dev)
+- 배나영(https://github.com/NayoungBae)
+- 박기남(https://github.com/salmon2)
+
 <br><br>
+
 ## 1. 제작기간 & 프로젝트 규모
 
 - 2021/10/03 ~ 2021/10/04
